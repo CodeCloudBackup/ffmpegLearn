@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -g -std=c++11 -g  -shared -Wl,-soname,libffmpeg_api.so -o /mnt/f/C++/FFmpegDemo/lib/libffmpeg_api.so CMakeFiles/ffmpeg_api.dir/audio_demo.cpp.o  -L/mnt/f/C++/FFmpegDemo/src/../lib  -L/usr/local/ffmpeg4.0/lib -Wl,-rpath,/mnt/f/C++/FFmpegDemo/src/../lib:/usr/local/ffmpeg4.0/lib -lavutil -lavdevice -lavformat 

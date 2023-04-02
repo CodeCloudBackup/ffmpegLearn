@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -g -std=c++11 -g  -shared -Wl,-soname,libhello.so -o /mnt/f/C++/FFmpegDemo/lib/libhello.so CMakeFiles/hello.dir/hello.cpp.o  -L/mnt/f/C++/FFmpegDemo/src/../lib  -L/usr/local/ffmpeg4.0/lib 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g -std=c++11 -g   CMakeFiles/FFmpegDemo.dir/main.cpp.o  -o /mnt/f/C++/FFmpegDemo/bin/FFmpegDemo  -L/mnt/f/C++/FFmpegDemo/src/../lib  -L/usr/local/ffmpeg4.0/lib -Wl,-rpath,/mnt/f/C++/FFmpegDemo/src/../lib:/usr/local/ffmpeg4.0/lib:/mnt/f/C++/FFmpegDemo/lib /mnt/f/C++/FFmpegDemo/lib/libhello.so /mnt/f/C++/FFmpegDemo/lib/libffmpeg_api.so -lavutil -lavdevice -lavformat 

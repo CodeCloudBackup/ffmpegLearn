@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>camera/bg_main.png</file>
+        <file>camera/btn_close_hover.png</file>
+        <file>camera/btn_close_normal.png</file>
+        <file>camera/btn_max_hover.png</file>
+        <file>camera/btn_max_normal.png</file>
+        <file>camera/btn_menu_hover.png</file>
+        <file>camera/btn_menu_normal.png</file>
+        <file>camera/btn_min_hover.png</file>
+        <file>camera/btn_min_normal.png</file>
+        <file>camera/btn_normal.png</file>
+        <file>camera/btn_press.png</file>
+        <file>camera/ico.png</file>
+        <file>camera/lab_hover.png</file>
+        <file>camera/lab_normal.png</file>
+    </qresource>
+</RCC>
